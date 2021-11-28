@@ -1,0 +1,67 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M608 448v-47.848c0-26.593-21.306-48.152-48-48.152-26.51 0-48 21.386-48 48.152v79.848h-32v-303.832c0-26.602-21.306-48.168-48-48.168-26.51 0-48 21.348-48 48.168v312.048c-64.334-70.184-148.749-146.785-184.134-111.209-34.789 34.977 49.818 131.421 175.002 342.057 14.735 24.793 30.491 47.588 47.874 67.736 42.812 65.738 116.959 109.2 201.258 109.2 132.548 0 240-107.452 240-240v-384.28c0-26.355-21.306-47.72-48-47.72-26.51 0-48 21.201-48 47.72v208.28h-32v-47.848c0-26.593-21.306-48.152-48-48.152-26.51 0-48 21.386-48 48.152v15.848h-32z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "rock-n-roll"
+        ],
+        "grid": 32
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 1,
+        "id": 0,
+        "prevSize": 32,
+        "code": 59648,
+        "name": "rock-n-roll"
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}

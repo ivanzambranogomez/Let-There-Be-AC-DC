@@ -1,0 +1,88 @@
+@font-face{font-family:icomoon7;src:url(fonts/icomoon7/fonts/IcoMoon-Free.ttf) format("truetype")}nav{position:relative;left:25%;top:30px;background:#000;width:55%;margin-bottom:60px;display:block;padding:2px}
+nav ul a{margin:5px;color:white;display:block;text-decoration:none}nav ul{list-style:none}ul ul{display:none}ul li:hover ul{display:block}a:hover{text-decoration:underline}
+@media screen and (min-width:300px){body{position:relative;font-family:sans-serif;background:black;overflow-x:hidden}#titulo{position:relative;top:20px;font-size:50px;text-align:center;color:#d50909}
+#titulo:before{font-family:icomoon;content:"Let There Be AC\26a1 DC";text-shadow:7px 7px 20px #FFF}header>a{position:relative;text-decoration:none;left:37%;margin:0 5px;top:25px;color:white}
+.redes{position:relative;text-align:center}.redes a{position:relative;margin-right:10px;top:40px;text-decoration:none}.facebook:before{font-family:icomoon;font-size:35px;content:"\ea90";background:white;color:black;border-radius:50%}
+.youtube:before{font-family:icomoon;font-size:35px;content:"\ea9e";background:white;color:black}.instagram:before{font-family:icomoon;font-size:35px;content:"\ea92";background:white;color:black}
+.facebook:hover,.youtube:hover,.instagram:hover{text-decoration:none}#cerrar:before{font-family:icomoon7;font-size:20px;content:"\ea0f";color:white}
+#cerrar{width:40px;height:25px;background:black}.menuvertical:before{font-family:icomoon7;font-size:25px;content:"\e9bd";color:white}
+#cerrar{display:none;position:relative;top:80px;left:30%;width:39%}#menuvertical{display:none;position:relative;width:60%;top:50px;left:25%}.menuvertical{position:relative;top:80px;text-align:center;font-size:25px;color:white}
+nav ul li{padding-bottom:6px;text-shadow:7px 7px 10px #FFF}.fotos:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.fotos{position:absolute;left:60px;top:100px}.video:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.video{position:relative;left:-22px;top:25px;padding-bottom:35px}.integrantes:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.integrantes{position:absolute;left:60px;top:140px}.reseña:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.reseña{position:relative;left:-22px;top:35px}.rider:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.rider{position:relative;left:-22px;top:25px}.toques:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.toques{position:relative;left:-22px;top:15px;padding-bottom:30px}#concepto{position:relative;top:160px;text-align:center;font-size:180%;color:white;text-shadow:7px 7px 20px #FFF}
+strong{font-weight:unset}.concepto{position:relative;top:180px;left:5%;font-size:140%;white-space:initial;width:90%;color:white}footer div .menu2{position:relative;background:black;top:300px;left:10px;width:95%;height:30px}
+.menu2 ul li{display:inline-flex;padding:5px 5px}.terminos{position:absolute;top:-3px;left:-20px}.contacto{position:absolute;top:-3px;left:125px}.ayuda{position:absolute;top:-3px;left:212px}
+.terminos a,.contacto a,.ayuda a{font-size:12px;text-shadow:7px 7px 15px #FFF}.uno{position:relative;top:330px;left:2%;font-size:11px;color:white}.dos{position:relative;top:335px;left:2%;font-size:11px;color:white}
+}@media screen and (min-width:480px){body{position:relative;font-family:sans-serif;background:black;overflow-x:hidden}#titulo{position:relative;top:20px;font-size:50px;text-align:center;color:#d50909}
+#titulo:before{font-family:icomoon;content:"Let There Be AC\26a1 DC";text-shadow:7px 7px 20px #FFF}header>a{position:relative;text-decoration:none;left:37%;margin:0 5px;top:25px;color:white}
+.redes{position:relative;text-align:center}.redes a{position:relative;margin-right:10px;top:40px;text-decoration:none}.facebook:before{font-family:icomoon;font-size:35px;content:"\ea90";background:white;color:black;border-radius:50%}
+.youtube:before{font-family:icomoon;font-size:35px;content:"\ea9e";background:white;color:black}.instagram:before{font-family:icomoon;font-size:35px;content:"\ea92";background:white;color:black}
+.facebook:hover,.youtube:hover,.instagram:hover{text-decoration:none}#cerrar:before{font-family:icomoon7;font-size:20px;content:"\ea0f";color:white}
+#cerrar{width:40px;height:25px;background:black}.menuvertical:before{font-family:icomoon7;font-size:25px;content:"\e9bd";color:white}
+#cerrar{display:none;position:relative;top:80px;left:35%;width:39%}#menuvertical{display:none;position:relative;width:60%;height:80%;top:50px;left:35%}
+.menuvertical{position:relative;top:80px;text-align:center;font-size:25px;color:white}nav ul li{padding-bottom:6px;text-shadow:7px 7px 10px #FFF}.fotos:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.fotos{position:absolute;left:60px;top:100px}.video:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.video{position:relative;left:-22px;top:25px;padding-bottom:35px}.integrantes:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.integrantes{position:absolute;left:60px;top:140px}.reseña:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.reseña{position:relative;left:-22px;top:35px}.rider:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.rider{position:relative;left:-22px;top:25px}.toques:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-8px;top:24px}
+.toques{position:relative;left:-22px;top:15px;padding-bottom:30px}#concepto{position:relative;top:160px;text-align:center;font-size:180%;color:white;text-shadow:7px 7px 20px #FFF}
+strong{font-weight:unset}.concepto{position:relative;top:180px;left:5%;font-size:145%;white-space:initial;width:90%;color:white}footer div .menu2{position:relative;background:black;top:300px;left:10px;width:95%;height:30px}
+.menu2 ul li{display:inline-flex;padding:5px 5px}.terminos{position:absolute;top:-3px;left:10px}.contacto{position:absolute;top:-3px;left:200px}.ayuda{position:absolute;top:-3px;left:320px}
+.terminos a,.contacto a,.ayuda a{font-size:14px;text-shadow:7px 7px 15px #FFF}.uno{position:relative;top:330px;left:2%;font-size:13px;color:white}.dos{position:relative;top:335px;left:2%;font-size:13px;color:white}
+}@media screen and (min-width:600px){body{position:relative;font-family:sans-serif;background:black}#titulo{position:relative;top:20px;font-size:50px;text-align:center;color:#d50909}
+#titulo:before{font-family:icomoon;content:"Let There Be AC\26a1 DC";text-shadow:7px 7px 20px #FFF}header>a{position:relative;text-decoration:none;left:37%;margin:0 5px;top:25px;color:white}
+.redes{position:relative;text-align:center}.redes a{position:relative;margin-right:10px;top:40px;text-decoration:none}.facebook:before{font-family:icomoon;font-size:35px;content:"\ea90";background:white;color:black;border-radius:50%}
+.youtube:before{font-family:icomoon;font-size:35px;content:"\ea9e";background:white;color:black}.instagram:before{font-family:icomoon;font-size:35px;content:"\ea92";background:white;color:black}
+.facebook:hover,.youtube:hover,.instagram:hover{text-decoration:none}.menuvertical{display:none}#menuvertical{position:relative;left:-3%;top:80px;background:black;width:570px;margin:0 auto;margin-bottom:170px}
+nav{position:relative;left:0;top:80px;background:black;width:570px;height:23px;margin:0 auto}nav ul{margin:-5px;padding:-5px;list-style:none;display:inline-flex}
+nav ul ul{display:none}nav a{display:block;color:white;text-shadow:7px 7px 10px #FFF;padding:3px 3px;text-decoration:none;font-size:94%}nav a:hover{text-decoration:underline}
+nav ul li:hover ul{display:block;position:absolute}.multimedia,.banda{cursor:pointer}.fotos:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:28px}
+.fotos{position:relative;left:-20px;top:-15px}.video:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:28px}
+.video{position:relative;left:-20px;top:-40px}.integrantes:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:28px}
+.integrantes{position:relative;left:-30px;top:-10px}.reseña:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:28px}
+.reseña{position:relative;left:-30px;top:-35px}.rider:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:28px}
+.rider{position:relative;left:-30px;top:-60px}.toques:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:28px}
+.toques{position:relative;left:-30px;top:-85px}#concepto{position:absolute;top:390px;margin-left:auto;margin-right:auto;left:0;right:0;text-align:center;font-size:180%;color:white;text-shadow:7px 7px 20px #FFF}
+strong{font-weight:unset}.concepto{position:absolute;top:470px;left:5%;font-size:145%;white-space:initial;width:90%;color:white}footer div .menu2{position:absolute;background:black;top:660%;left:10px;width:95%;height:30px}
+.menu2 ul li{display:inline-flex;padding:5px 5px}.terminos{position:relative;top:-3px;left:-17px}.contacto{position:relative;top:-3px;left:30px}.ayuda{position:relative;top:-3px;left:70px}
+.terminos a,.contacto a,.ayuda a{font-size:15px;text-shadow:7px 7px 20px #FFF}.uno{position:absolute;top:720%;left:2%;font-size:16px;color:white}.dos{position:absolute;top:735%;left:2%;font-size:16px;color:white}
+}@media screen and (min-width:768px){body{position:relative;font-family:sans-serif;background:black}#titulo{position:relative;top:25px;font-size:60px;text-align:center;color:#d50909}
+#titulo:before{font-family:icomoon;content:"Let There Be AC\26a1 DC";text-shadow:7px 7px 20px #FFF}header>a{position:relative;text-decoration:none;left:37%;margin:0 5px;top:15px;color:white}
+.redes{position:relative;text-align:center}.redes a{position:relative;margin-right:10px;top:40px;text-decoration:none}.facebook:before{font-family:icomoon;font-size:40px;content:"\ea90";background:white;color:black;border-radius:50%}
+.youtube:before{font-family:icomoon;font-size:40px;content:"\ea9e";background:white;color:black}.instagram:before{font-family:icomoon;font-size:40px;content:"\ea92";background:white;color:black}
+.facebook:hover,.youtube:hover,.instagram:hover{text-decoration:none}.menuvertical{display:none}#menuvertical{position:relative;left:0;top:80px;background:black;width:715px;margin:0 auto;margin-bottom:170px}
+nav{position:relative;left:0;top:80px;background:black;width:715px;height:30px;margin:0 auto}nav ul{margin:-5px;padding:-5px;list-style:none;display:inline-flex}
+nav ul ul{display:none}nav a{display:block;color:white;text-shadow:7px 7px 15px #FFF;padding:3px 3px;text-decoration:none;font-size:20px}nav a:hover{text-decoration:underline}
+nav ul li:hover ul{display:block;position:absolute}.multimedia,.banda{cursor:pointer}.fotos:before{font-family:icomoon;content:"\26a1     ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:31px;font-size:20px}
+.fotos{position:relative;left:-10px;top:-15px}.video:before{font-family:icomoon;content:"\26a1     ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:31px;font-size:20px}
+.video{position:relative;left:-10px;top:-40px}.integrantes:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:31px;font-size:20px}
+.integrantes{position:relative;left:-30px;top:-10px}.reseña:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:31px;font-size:20px}
+.reseña{position:relative;left:-30px;top:-35px}.rider:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:31px;font-size:20px}
+.rider{position:relative;left:-30px;top:-60px}.toques:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:31px;font-size:20px}
+.toques{position:relative;left:-30px;top:-85px}#concepto{position:absolute;top:460px;margin-left:auto;margin-right:auto;left:0;right:0;font-size:180%;color:white;text-shadow:7px 7px 20px #FFF}
+strong{font-weight:unset}.concepto{position:absolute;top:550px;left:5%;font-size:155%;white-space:initial;width:90%;color:white}footer div .menu2{position:absolute;background:black;top:590%;left:10px;width:95%;height:30px}
+.menu2 ul li{display:inline-flex;padding:5px 5px}.terminos{position:relative;top:-3px;left:-17px}.contacto{position:relative;top:-3px;left:30px}.ayuda{position:relative;top:-3px;left:70px}
+.terminos a,.contacto a,.ayuda a{font-size:20px;text-shadow:7px 7px 20px #FFF}.uno{position:absolute;top:670%;left:2%;font-size:14px;color:white}.dos{position:absolute;top:685%;left:2%;font-size:14px;color:white}
+}@media screen and (min-width:950px){body{position:relative;font-family:sans-serif;background:black}#titulo{position:relative;top:25px;font-size:80px;text-align:center;color:#d50909}
+#titulo:before{font-family:icomoon;content:"Let There Be AC\26a1 DC";text-shadow:7px 7px 20px #FFF}header>a{position:relative;text-decoration:none;left:40%;margin:0 5px;top:15px;color:white}
+.redes{position:relative;text-align:center}.redes a{position:relative;margin-right:10px;top:40px;text-decoration:none}.facebook:before{font-family:icomoon;font-size:40px;content:"\ea90";background:white;color:black;border-radius:50%}
+.youtube:before{font-family:icomoon;font-size:40px;content:"\ea9e";background:white;color:black}.instagram:before{font-family:icomoon;font-size:40px;content:"\ea92";background:white;color:black}
+.facebook:hover,.youtube:hover,.instagram:hover{text-decoration:none}.menuvertical{display:none}#menuvertical{position:relative;left:0;top:80px;background:black;width:790px;margin:0 auto;margin-bottom:170px}
+nav{position:relative;left:0;top:80px;background:black;width:790px;height:22px;margin:0 auto}nav ul{margin:-10px;padding:-10px;list-style:none;display:inline-flex}
+nav ul ul{display:none}nav a{display:block;color:white;text-shadow:7px 7px 20px #FFF;padding:3px 3px;text-decoration:none;font-size:22px}nav a:hover{text-decoration:underline}
+nav ul li:hover ul{display:block;position:absolute}.multimedia,.banda{cursor:pointer}.fotos:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:32px;font-size:20px}
+.fotos{position:relative;left:-10px;top:-15px}.video:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:32px;font-size:20px}
+.video{position:relative;left:-10px;top:-40px}.integrantes:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:32px;font-size:20px}
+.integrantes{position:relative;left:-30px;top:-10px}.reseña:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:32px;font-size:20px}
+.reseña{position:relative;left:-30px;top:-35px}.rider:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:32px;font-size:20px}
+.rider{position:relative;left:-30px;top:-60px}.toques:before{font-family:icomoon;content:"\26a1    ";text-shadow:7px 7px 20px #FFF;color:#d50909;position:relative;left:-6px;top:32px;font-size:20px}
+.toques{position:relative;left:-30px;top:-85px}#concepto{position:absolute;top:510px;margin-left:auto;margin-right:auto;left:0;right:0;font-size:180%;color:white;text-shadow:7px 7px 20px #FFF}
+strong{font-weight:unset}.concepto{position:absolute;top:620px;left:5%;font-size:200%;white-space:initial;width:90%;color:white}footer div .menu2{position:absolute;background:black;top:620%;left:10px;width:95%;height:30px}
+.menu2 ul li{display:inline-flex;padding:5px 5px}.terminos{position:relative;top:-18%;left:-15px}.contacto{position:relative;top:-18%;left:30px}.ayuda{position:relative;top:-18%;left:70px}
+.terminos a,.contacto a,.ayuda a{font-size:20px;text-shadow:7px 7px 20px #FFF}.uno{position:absolute;top:690%;left:2%;font-size:16px;color:white}.dos{position:absolute;top:705%;left:2%;font-size:16px;color:white}
+}

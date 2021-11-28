@@ -1,0 +1,19 @@
+Options -Indexes
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html
+
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
+ErrorDocument 404 http://lettherebeacdc.net/404
+ErrorDocument 400 http://lettherebeacdc.net/404
+ErrorDocument 403 http://lettherebeacdc.net/404
+
+<IfModule mod_rewrite.c>
+RewriteCond %{HTTP_HOST} ^www.lettherebeacdc.net [NC]
+RewriteRule (.*) http://lettherebeacdc.net/$1 [R=301,L,QSA]
+</IfModule>

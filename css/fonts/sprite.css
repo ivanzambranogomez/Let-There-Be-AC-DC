@@ -1,0 +1,286 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-rock-n-roll {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-pencil {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.icon-camera {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -48px;
+}
+.icon-headphones {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -48px;
+}
+.icon-music {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -48px;
+}
+.icon-play {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -48px;
+}
+.icon-film {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -48px;
+}
+.icon-video-camera {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -48px;
+}
+.icon-mic {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -48px;
+}
+.icon-file-music {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -48px;
+}
+.icon-file-play {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -48px;
+}
+.icon-file-video {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -48px;
+}
+.icon-coin-dollar {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -48px;
+}
+.icon-phone {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -48px;
+}
+.icon-phone-hang-up {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -48px;
+}
+.icon-calendar {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -48px;
+}
+.icon-keyboard {
+  width: 36px;
+  height: 32px;
+  background-position: 0 -96px;
+}
+.icon-display {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -96px;
+}
+.icon-laptop {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -96px;
+}
+.icon-mobile {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -96px;
+}
+.icon-mobile2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -96px;
+}
+.icon-tablet {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -96px;
+}
+.icon-box-add {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -96px;
+}
+.icon-bubbles {
+  width: 36px;
+  height: 32px;
+  background-position: -336px -96px;
+}
+.icon-bubbles2 {
+  width: 36px;
+  height: 32px;
+  background-position: -384px -96px;
+}
+.icon-bubble2 {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -96px;
+}
+.icon-bubbles3 {
+  width: 36px;
+  height: 32px;
+  background-position: -480px -96px;
+}
+.icon-bubbles4 {
+  width: 36px;
+  height: 32px;
+  background-position: -528px -96px;
+}
+.icon-wrench {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -96px;
+}
+.icon-cog {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -96px;
+}
+.icon-cogs {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -96px;
+}
+.icon-hammer {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -96px;
+}
+.icon-trophy {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -144px;
+}
+.icon-gift {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -144px;
+}
+.icon-glass {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -144px;
+}
+.icon-glass2 {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -144px;
+}
+.icon-mug {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -144px;
+}
+.icon-airplane {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -144px;
+}
+.icon-download3 {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -144px;
+}
+.icon-google {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -144px;
+}
+.icon-google2 {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -144px;
+}
+.icon-google3 {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -144px;
+}
+.icon-google-plus {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -144px;
+}
+.icon-google-plus2 {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -144px;
+}
+.icon-google-plus3 {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -144px;
+}
+.icon-google-drive {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -144px;
+}
+.icon-facebook {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -144px;
+}
+.icon-facebook2 {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -144px;
+}
+.icon-instagram {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -192px;
+}
+.icon-whatsapp {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -192px;
+}
+.icon-telegram {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -192px;
+}
+.icon-twitter {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -192px;
+}
+.icon-vine {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -192px;
+}
+.icon-vk {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -192px;
+}
+.icon-youtube {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -192px;
+}
+.icon-youtube2 {
+  width: 80px;
+  height: 32px;
+  background-position: -336px -192px;
+}
+
